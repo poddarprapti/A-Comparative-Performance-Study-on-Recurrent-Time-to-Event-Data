@@ -1,1 +1,2 @@
 # A-Comparative-Performance-Study-on-Recurrent-Time-to-Event-Data
+Often in survival studies, we come across recurrent events which can be modelled in different ways. A real life example of a recurrent event is a chronic disease. There are three components of such an event, duration of wellness, duration of illness and number of recurrences. We have compared the case considering only number of recurrences versus the case comparing both the number of recurrence and duration of wellness by incorporating covariate information. Our study shows which model is more realistic.
